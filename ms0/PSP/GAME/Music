@@ -1,0 +1,42 @@
+0 [UserMain] INFO  compiler - Splitting _S1_2_886733C (174/50)
+174 [CRI Server Manager] INFO  hle.sceAtrac3plus - sceAtracLowLevelInitDecoder atID=0x2, paramsAddr=0x09F9C8A0
+205 [CRI Atom Atrac Decode] INFO  hle.sceAtrac3plus - hleAtracSetData atID=0x2, buffer=0x09DDB400, readSize=0x150, bufferSize=0xC0, fileSize=0x99D50
+206 [CRI Atom Atrac Decode] INFO  hle.sceAtrac3plus - Decodable AT3 data detected.
+207 [CRI Atom Atrac Decode] INFO  hle.sceAtrac3plus - Playing AT3 file 'PartialVirtualFile[UmdIsoVirtualFile[UmdIsoFile(name='DATAUMD.CPK', length=0x1A0320AD, startSector=0xE4E0), sectorBlockMode=false], startPosition=0x9987000, length=0x99D50]'
+226 [UserMain] INFO  compiler - Splitting _S1_2_8872690 (94/50)
+286 [UserMain] INFO  compiler - Splitting _S1_2_886F800 (133/50)
+288 [UserMain] INFO  compiler - Splitting _S1_2_8A87D94 (57/50)
+291 [UserMain] INFO  compiler - Splitting _S1_2_8A5985C (68/50)
+294 [UserMain] INFO  compiler - Splitting _S1_2_8B9D97C (51/50)
+1796 [UserMain] INFO  compiler - Splitting _S1_2_88865E0 (63/50)
+1801 [UserMain] INFO  compiler - Splitting _S1_2_88866DC (57/50)
+1836 [UserMain] INFO  compiler - Splitting _S1_2_88872A8 (269/50)
+1904 [UserMain] INFO  compiler - Splitting _S1_2_88894C4 (56/50)
+1906 [UserMain] INFO  compiler - Splitting _S1_2_88868C0 (72/50)
+1961 [UserMain] INFO  compiler - Splitting _S1_2_88869E8 (66/50)
+2009 [UserMain] INFO  hle.sceUtility - sceUtilitySavedataInitStart 0x08D30F2C-0x08D3152C: Address 0x08D30F2C, mode=12(FILES), gameName=NPJH50681, saveName=INSTALL, fileName=, secureVersion=0
+2691 [UserMain] INFO  hle.sceUtility - sceUtilitySavedataInitStart 0x08D3374C-0x08D33D4C: Address 0x08D3374C, mode=8(SIZES), gameName=NPJH50681, saveName=, fileName=SYSTEM.DAT, secureVersion=0
+3309 [UserMain] INFO  hle.sceUtility - sceUtilitySavedataInitStart 0x08D37254-0x08D37854: Address 0x08D37254, mode=11(LIST), gameName=NPJH50681, saveName=*, fileName=, secureVersion=0
+4259 [UserMain] INFO  compiler - Splitting _S1_2_8886AF8 (69/50)
+4298 [UserMain] INFO  compiler - Splitting _S1_2_8886C14 (56/50)
+4300 [UserMain] INFO  compiler - Splitting _S1_2_888BB84 (69/50)
+4303 [UserMain] INFO  compiler - Splitting _S1_2_888C070 (150/50)
+4305 [UserMain] INFO  hle.sceUtility - sceUtilitySavedataInitStart 0x08D30D4C-0x08D3134C: Address 0x08D30D4C, mode=1(AUTOSAVE), gameName=NPJH50681, saveName=SYSTEM, fileName=SYSTEM.DAT, secureVersion=0
+5184 [UserMain] INFO  compiler - Splitting _S1_2_888712C (93/50)
+19186 [UserMain] INFO  hle.IoFileMgrForUser - hleIoOpen filename = ms0:/MUSIC/OVERWORLD/星屑ユートピア - otetsu,巡音ルカ.mp3 flags = 1 permissions = 00
+22270 [UserMain] INFO  hle.IoFileMgrForUser - hleIoOpen filename = ms0:/MUSIC/OVERWORLD/最後の女王 - 巡音ルカ.mp3 flags = 1 permissions = 00
+24287 [UserMain] INFO  hle.IoFileMgrForUser - hleIoOpen filename = ms0:/MUSIC/OVERWORLD/歌に形はないけれど(追加楽曲集１).mp3 flags = 1 permissions = 00
+26503 [UserMain] INFO  hle.IoFileMgrForUser - hleIoOpen filename = ms0:/MUSIC/OVERWORLD/裏表ラバーズ(追加楽曲集１).mp3 flags = 1 permissions = 00
+29487 [UserMain] INFO  hle.IoFileMgrForUser - hleIoOpen filename = ms0:/MUSIC/OVERWORLD/裏表ラバーズ(追加楽曲集１).mp3 flags = 1 permissions = 00
+29555 [CRI FS File Access 0] INFO  hle.IoFileMgrForUser - hleIoOpen filename = ms0:/MUSIC/OVERWORLD/裏表ラバーズ(追加楽曲集１).mp3 flags = 4001 permissions = 020644
+29589 [CRI Server Manager] WARN  hle - IGNORING: Unmapped import at 0x08BA5414 [0x1B839B83] Module 'sceMp3' - $a0=0x0000A300 $a1=0x00000000 $a2=0x00000000
+29590 [CRI Server Manager] WARN  hle - IGNORING: Unmapped import at 0x08BA542C [0xE3EE2C81] Module 'sceMp3' - $a0=0x0000A300 $a1=0x09DA3854 $a2=0x09F9C8C0
+32240 [CRI Server Manager] WARN  hle - IGNORING: Unmapped import at 0x08BA5414 [0x1B839B83] Module 'sceMp3' - $a0=0x0000A300 $a1=0x00000000 $a2=0x00000000
+32256 [CRI Server Manager] WARN  hle - IGNORING: Unmapped import at 0x08BA5414 [0x1B839B83] Module 'sceMp3' - $a0=0x0000A300 $a1=0x00000000 $a2=0x00000000
+32271 [CRI Server Manager] WARN  hle - IGNORING: Unmapped import at 0x08BA5414 [0x1B839B83] Module 'sceMp3' - $a0=0x0000A300 $a1=0x00000000 $a2=0x00000000
+39921 [UserMain] INFO  hle.IoFileMgrForUser - hleIoOpen filename = ms0:/MUSIC/OVERWORLD/裏表ラバーズ(追加楽曲集１).mp3 flags = 1 permissions = 00
+39991 [CRI FS File Access 0] INFO  hle.IoFileMgrForUser - hleIoOpen filename = ms0:/MUSIC/OVERWORLD/裏表ラバーズ(追加楽曲集１).mp3 flags = 4001 permissions = 020644
+40022 [CRI Server Manager] WARN  hle - IGNORING: Unmapped import at 0x08BA5414 [0x1B839B83] Module 'sceMp3' - $a0=0x0000A300 $a1=0x00000000 $a2=0x00000000
+40023 [CRI Server Manager] WARN  hle - IGNORING: Unmapped import at 0x08BA542C [0xE3EE2C81] Module 'sceMp3' - $a0=0x0000A300 $a1=0x09DA3854 $a2=0x09F9C8C0
+54006 [CRI Server Manager] ERROR runtime - Catched Throwable in RuntimeThread:
+java.lang.ArrayIndexOutOfBoundsException: 41943040        at _S1_2_8AC2CDC.s8ac2ed8(_S1_2_8AC2CDC.java:512)        at _S1_2_8AC2CDC.s(_S1_2_8AC2CDC.java:508)        at _S1_2_8AC2CDC.exec(_S1_2_8AC2CDC.java)        at jpcsp.Allegrex.compiler.RuntimeContext.jumpCall(RuntimeContext.java:157)        at jpcsp.Allegrex.compiler.RuntimeContext.call(RuntimeContext.java:210)        at _S1_2_8AC33B0.s(_S1_2_8AC33B0.java:28)        at _S1_2_8ACECCC.s8acedb4(_S1_2_8ACECCC.java:272)        at _S1_2_8ACECCC.s(_S1_2_8ACECCC.java:232)        at _S1_2_8ACE928.s8acea04(_S1_2_8ACE928.java:292)        at _S1_2_8ACE928.s(_S1_2_8ACE928.java:220)        at _S1_2_8ACE760.s8ace834(_S1_2_8ACE760.java:216)        at _S1_2_8ACE760.s(_S1_2_8ACE760.java:212)        at _S1_2_8ACE760.exec(_S1_2_8ACE760.java)        at jpcsp.Allegrex.compiler.RuntimeContext.jumpCall(RuntimeContext.java:157)        at jpcsp.Allegrex.compiler.RuntimeContext.call(RuntimeContext.java:210)        at _S1_2_8B010B8.s(_S1_2_8B010B8.java:52)        at _S1_2_8ACE6D8.s(_S1_2_8ACE6D8.java:108)        at _S1_2_8ACE6BC.s(_S1_2_8ACE6BC.java:12)        at _S1_2_8AAFEA0.s(_S1_2_8AAFEA0.java:84)        at _S1_2_8ABB18C.s(_S1_2_8ABB18C.java:92)        at _S1_2_8ABB124.s(_S1_2_8ABB124.java:72)        at _S1_2_8ABB108.s(_S1_2_8ABB108.java:12)        at _S1_2_8ABB108.exec(_S1_2_8ABB108.java)        at jpcsp.Allegrex.compiler.RuntimeContext.jumpCall(RuntimeContext.java:157)        at jpcsp.Allegrex.compiler.RuntimeContext.call(RuntimeContext.java:210)        at _S1_2_8B04E88.s(_S1_2_8B04E88.java:284)        at _S1_2_8B0510C.s(_S1_2_8B0510C.java:12)        at _S1_2_8B0510C.exec(_S1_2_8B0510C.java)        at jpcsp.Allegrex.compiler.RuntimeContext.jumpCall(RuntimeContext.java:157)        at jpcsp.Allegrex.compiler.RuntimeContext.call(RuntimeContext.java:210)        at _S1_2_8B01D30.s(_S1_2_8B01D30.java:100)        at _S1_2_8B01D30.exec(_S1_2_8B01D30.java)        at jpcsp.Allegrex.compiler.RuntimeContext.jumpCall(RuntimeContext.java:157)        at jpcsp.Allegrex.compiler.RuntimeContext.call(RuntimeContext.java:210)        at _S1_2_8B054D4.s(_S1_2_8B054D4.java:68)        at _S1_2_8B054D4.exec(_S1_2_8B054D4.java)        at jpcsp.Allegrex.compiler.RuntimeContext.execWithReturnAddress(RuntimeContext.java:668)        at jpcsp.Allegrex.compiler.RuntimeContext.runThread(RuntimeContext.java:709)        at jpcsp.Allegrex.compiler.RuntimeThread.run(RuntimeThread.java:50)
